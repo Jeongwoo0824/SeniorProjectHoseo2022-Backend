@@ -10,10 +10,6 @@
 
 ### 이 레파지토리는 프로젝트의 백엔드 파트입니다.
 
-프론트 : https://github.com/dev-daru/2022.09-SeniorProject-FrontEnd-Kotlin<br>
-백엔드 : https://github.com/dev-daru/2022.09-SeniorProject-Backend-node.js<br>
-AI : https://github.com/dev-daru/2022.09-SeniorProject-Ai-python<br>
-
 ### 시연영상입니다.<br><br>
 [![Video Label](http://img.youtube.com/vi/RctHAG5oD1M/0.jpg)](https://www.youtube.com/watch?v=RctHAG5oD1M)
 
